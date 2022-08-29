@@ -13,11 +13,12 @@ Recipe class with fields-
 
 # Features
 
-addRecipe - http://localhost:8080/api/addRecipe
-getRecipe - http://localhost:8080/api/getRecipe
-removeRecipe - http://localhost:8080/api/removeRecipe/id
-updateRecipe - http://localhost:8080/api/updateRecipe/id
-searchRecipe - http://localhost:8080/api/searchRecipe/true
+•	addRecipe - http://localhost:8080/api/addRecipe
+•	getRecipe - http://localhost:8080/api/getRecipe
+•	removeRecipe - http://localhost:8080/api/removeRecipe/id
+•	updateRecipe - http://localhost:8080/api/updateRecipe/id
+•	searchRecipe - http://localhost:8080/api/searchRecipe/true
+
 
 # Development Tools:
 1. Java
