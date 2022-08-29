@@ -1,4 +1,4 @@
-Recipe Central
+# Recipe Central
 A standalone java application called "Recipe Central" which allows users to manage their favourite recipes using Java, Spring boot, maven and Junit. The service uses RecipeSpecification to allow multiple searches using JPA Sepcification and predicates which are used by criteria Builder to build the search query. The database used is MySql and test cases are written using junit and mockito.
 
 Recipe class with fields-
@@ -11,7 +11,7 @@ Recipe class with fields-
 •	CreatedOn
 
 
-Features
+# Features
 
 addRecipe - http://localhost:8080/api/addRecipe
 getRecipe - http://localhost:8080/api/getRecipe
@@ -19,13 +19,14 @@ removeRecipe - http://localhost:8080/api/removeRecipe/id
 updateRecipe - http://localhost:8080/api/updateRecipe/id
 searchRecipe - http://localhost:8080/api/searchRecipe/true
 
-Development Tools:
+# Development Tools:
 1. Java
 2. Spring boot
 3. Maven
 4. Junit
+5. MySql
 
-How to create Database 
+# How to create Database 
 
 1. Create the table in Recipe schema using
 
